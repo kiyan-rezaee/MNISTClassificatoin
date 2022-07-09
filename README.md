@@ -1,8 +1,8 @@
 # MNISTClassificatoin
 
-Dataset : digits and labels from sklearn datasets
-images : shape (8,8)
-samples : 1797 (train=1200, test=597)
+Dataset : digits and labels from sklearn datasets\
+images : shape (8,8)\
+samples : 1797 (train=1200, test=597)\
 Algorithm : SVC and KNN\
 **for KNN, k=5**
 
