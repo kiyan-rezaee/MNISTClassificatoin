@@ -3,7 +3,7 @@
 Dataset : digits and labels from sklearn datasets\
 images : shape (8,8)\
 samples : 1797 (train=1200, test=597)\
-Algorithm : SVC and KNN\
+Algorithm : SVC and KNN
 
 Result :
 
