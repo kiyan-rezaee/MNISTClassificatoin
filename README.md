@@ -1,10 +1,17 @@
 # MNISTClassificatoin
 
+<<<<<<< HEAD
 Dataset : digits and labels from sklearn datasets
 images : shape (8,8)
 samples : 1797 (train=1200, test=597)
 Algorithm : SVC and KNN\
 **for KNN, k=5**
+=======
+Dataset : digits and labels from sklearn datasets\
+images : shape (8,8)\
+samples : 1797 (train=1200, test=597)\
+Algorithm : SVC and KNN
+>>>>>>> 1ee2819a5d2af35140d2c338b4328ba680b21856
 
 ## Result
 
@@ -45,6 +52,7 @@ confusion_matrix :
  [ 0  0  0  1  0  1  0  1  0 55]]
 
  ```
+<<<<<<< HEAD
 
 <hr>
 
@@ -82,3 +90,5 @@ confusion_matrix :
  [ 0  3  0  0  0  0  0  1 50  1]
  [ 0  0  0  1  0  2  0  0  0 55]]
  ```
+=======
+>>>>>>> 1ee2819a5d2af35140d2c338b4328ba680b21856
