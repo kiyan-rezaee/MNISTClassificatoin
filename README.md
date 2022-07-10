@@ -1,6 +1,6 @@
 # MNISTClassificatoin
 
-Dataset : digits and labels from sklearn datasets\
+Dataset : digits and labels from sklearn datasets [link](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html)\
 images : shape (8,8)\
 samples : 1797 (train=1200, test=597)\
 Algorithm : SVC and KNN\
